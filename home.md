@@ -2,4 +2,4 @@
 
 ## Sections
 
-* [HowTo HowTo](./README.md) - How to edit the Wiki and best practices around that.
+* [HowTo HowTo](./README) - How to edit the Wiki and best practices around that.
