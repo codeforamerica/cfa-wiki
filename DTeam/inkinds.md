@@ -15,8 +15,11 @@ Is only available to staff members and select projects.
 ###Slack
 Slack is only available to staff members.
 
-###CartoDB
+###Carto(formerly CartoDB)
+Email santiagogiraldo@carto.com and tell them CFA sent yuo.
 
 ###Heroku
 
 ###Github
+
+###Adube
