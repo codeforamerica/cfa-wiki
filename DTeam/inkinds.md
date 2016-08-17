@@ -19,7 +19,19 @@ Slack is only available to staff members.
 Email santiagogiraldo@carto.com and tell them CFA sent yuo.
 
 ###Heroku
+We are giving access on a case by case basis for non-staff members.  Contact Mikela if you're staff.
 
 ###Github
 
 ###Adobe
+
+###InVision
+
+###Intercomm
+Limited discounted available only to staff.
+
+###SafariBooks Online
+Access is just available to staff.
+
+###UserTesting
+Access is just available to staff.
