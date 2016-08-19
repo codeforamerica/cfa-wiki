@@ -9,7 +9,7 @@ If you already have these skills please read the section on branching, pull requ
 
 ## Working with github
 
-Our wiki's repo is stored on [github here](https://github.com/codeforamerica/howto). If you don't already have a github account go ahead and set one up. If you work at CfA contact [Mikela](mailto:mikela@codeforamerica.org) and they will add you to our organization. If not please [fork](https://help.github.com/articles/fork-a-repo/#fork-an-example-repository) the repository.
+Our wiki's repo is stored on [github here](https://github.com/codeforamerica/cfa-wiki). If you don't already have a github account go ahead and set one up. If you work at CfA contact [Mikela](mailto:mikela@codeforamerica.org) and they will add you to our organization. If not please [fork](https://help.github.com/articles/fork-a-repo/#fork-an-example-repository) the repository.
 
 Once you have a github account and a access to the howto repo (or a fork of it), its time to download and install the git CLI tool. If you are using OSX please download it from [here](https://git-scm.com/download/mac).
 
@@ -19,7 +19,7 @@ Now open your terminal. If the terminal is new to you read [this simple explaine
 
 ```bash
 cd ~/Documents
-git clone https://github.com/codeforamerica/howto.git
+git clone https://github.com/codeforamerica/cfa-wiki.git
 cd howto
 ```
 
