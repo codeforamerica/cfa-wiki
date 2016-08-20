@@ -1,5 +1,5 @@
 # HR Director
 
-Coming soon
+Coming soon!
 
 
