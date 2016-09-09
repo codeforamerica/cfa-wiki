@@ -22,10 +22,12 @@ Email santiagogiraldo@carto.com and tell them CFA sent yuo.
 We are giving access on a case by case basis for non-staff members.  Contact Mikela if you're staff.
 
 ###Github
+CFA has access to unlimited private repositories for staff. If brigades need to create a private repository we can manage it if desireed.
 
 ###Adobe
 
 ###InVision
+CFA has access to a shared account for staff and can offer accounts with 3 concurrent projects to brigade members.
 
 ###Intercomm
 Limited discounted available only to staff.
