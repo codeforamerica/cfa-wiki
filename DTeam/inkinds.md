@@ -1,9 +1,7 @@
 #CFAs InKinds and How to Request them
 
 ##Services offered by CFA and how to access them
-
-
-Below is a list  for staff and brigades please contact brigade-info@codeforamerica.org to request access or if your a staff member than ask your team lead or email mikela@codeforamerica.org.
+CfA gets in-kind donations of software from a variety of companies. The Development team tracks these carefully, including who has access and how much of each donation we use.  Below is a list of all these donations and how to access them. Please email inkinds@codeforamerica.org to request access to anything you see here. If you're a brigade please copy Monique.
 
 ###AWS
 If your in a brigade  or CFA staff member you can get free AWS usage for your products.  
@@ -29,7 +27,6 @@ We are giving access on a case by case basis for non-staff members.  Contact Mik
 CFA has access to unlimited private repositories for staff. If brigades need to create a private repository we can manage it if desireed.
 
 ###Adobe
-Adobe offers Creative Cloud access to staff and fellows.  Creative cloud is design and photo editing suite.
 
 ###InVision
 InVision is a web application that helps teams prototype and share frontend UIs.  CFA has access to a shared account for staff and can offer accounts with 3 concurrent projects to brigade members.
