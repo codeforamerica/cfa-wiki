@@ -10,12 +10,14 @@ If your in a brigade  or CFA staff member you can get free AWS usage for your pr
 Bizspark is a Microsoft product that we've been donated.  This includes access to Office 365, Windows product keys, and Azure access.  
 
 ###Twilio
-Is only available to staff members and select projects.
+Twilio offers text messaging as a service for developers.  It is only available to staff members and select projects.
 
 ###Slack
 Slack is only available to staff members.
 
 ###Carto(formerly CartoDB)
+Carto is a web application which helps people visualize and work with GIS data.  
+
 Email santiagogiraldo@carto.com and tell them CFA sent yuo.
 
 ###Heroku
@@ -27,13 +29,13 @@ CFA has access to unlimited private repositories for staff. If brigades need to 
 ###Adobe
 
 ###InVision
-CFA has access to a shared account for staff and can offer accounts with 3 concurrent projects to brigade members.
+InVision is a web application that helps teams prototype and share frontend UIs.  CFA has access to a shared account for staff and can offer accounts with 3 concurrent projects to brigade members.
 
 ###Intercomm
-Limited discounted available only to staff.
+Helps teams get feedback about live websites from users.  Limited disocunted available only to staff.
 
 ###SafariBooks Online
-Access is just available to staff.
+Safari is a great source for books on engineering and other technical topics.  Access is just available to staff.
 
 ###UserTesting
-Access is just available to staff.
+Usertesting is a  web application offers teams the ability to video people using your product and hear feedback and ask questions.  Access is just available to staff.
