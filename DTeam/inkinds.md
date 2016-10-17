@@ -1,7 +1,7 @@
 # CFAs InKinds and How to Request them
 
 # Services offered by CFA and how to access them
-Below is a list For brigades please contact brigade-info@codeforamerica.org to request access or if your a staff member than ask your team lead or email mikela@codeforamerica.org. Once you have stopped using a service, please alert 
+Below is a list For brigades please contact brigade-info@codeforamerica.org to request access or if your a staff member than ask your team lead or email inkinds@codeforamerica.org. Once you have stopped using a service, please alert 
 
 ## Cloud Hosting
 
